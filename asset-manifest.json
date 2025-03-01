@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hisoblivion/sahyog.git/static/css/main.7b6df649.css",
+    "main.js": "/hisoblivion/sahyog.git/static/js/main.e220dc2c.js",
+    "static/js/453.923768b0.chunk.js": "/hisoblivion/sahyog.git/static/js/453.923768b0.chunk.js",
+    "index.html": "/hisoblivion/sahyog.git/index.html",
+    "main.7b6df649.css.map": "/hisoblivion/sahyog.git/static/css/main.7b6df649.css.map",
+    "main.e220dc2c.js.map": "/hisoblivion/sahyog.git/static/js/main.e220dc2c.js.map",
+    "453.923768b0.chunk.js.map": "/hisoblivion/sahyog.git/static/js/453.923768b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6df649.css",
+    "static/js/main.e220dc2c.js"
+  ]
+}
