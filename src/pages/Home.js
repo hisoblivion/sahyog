@@ -23,11 +23,12 @@ const Home = () => {
 
 const styles = {
   section: {
-    padding: '40px',
-    textAlign: 'center',
-    maxWidth: '1000px',
-    margin: 'auto',
-    lineHeight: '1.6',
+    padding: "40px",
+    textAlign: "center",
+    maxWidth: "900px",
+    margin: "auto",
+    lineHeight: "1.6",
+    minHeight: "100vh", /* Ensures full height for scrolling */
   },
   grid: {
     display: 'grid',

@@ -50,8 +50,12 @@ const Volunteer = () => {
 
 const styles = {
   section: {
-    padding: '40px',
-    textAlign: 'center',
+    padding: "40px",
+    textAlign: "center",
+    maxWidth: "900px",
+    margin: "auto",
+    lineHeight: "1.6",
+    minHeight: "100vh", /* Ensures full height for scrolling */
   },
   form: {
     display: 'flex',

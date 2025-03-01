@@ -20,10 +20,10 @@ const styles = {
   navbar: {
     backgroundColor: "#004080",
     padding: "15px",
-    display: "flex",
-    justifyContent: "space-between",
-    alignItems: "center",
-    color: "white",
+    position: "sticky", /* Change from fixed to sticky */
+    top: "0",
+    width: "100%",
+    zIndex: "1000",
   },
   logo: {
     margin: "0",
