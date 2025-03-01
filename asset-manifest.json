@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sahyog.git/static/css/main.7b6df649.css",
-    "main.js": "/sahyog.git/static/js/main.8df5f0c7.js",
-    "static/js/453.923768b0.chunk.js": "/sahyog.git/static/js/453.923768b0.chunk.js",
-    "index.html": "/sahyog.git/index.html",
-    "main.7b6df649.css.map": "/sahyog.git/static/css/main.7b6df649.css.map",
-    "main.8df5f0c7.js.map": "/sahyog.git/static/js/main.8df5f0c7.js.map",
-    "453.923768b0.chunk.js.map": "/sahyog.git/static/js/453.923768b0.chunk.js.map"
+    "main.css": "/sahyog/static/css/main.7b6df649.css",
+    "main.js": "/sahyog/static/js/main.141071de.js",
+    "static/js/453.923768b0.chunk.js": "/sahyog/static/js/453.923768b0.chunk.js",
+    "index.html": "/sahyog/index.html",
+    "main.7b6df649.css.map": "/sahyog/static/css/main.7b6df649.css.map",
+    "main.141071de.js.map": "/sahyog/static/js/main.141071de.js.map",
+    "453.923768b0.chunk.js.map": "/sahyog/static/js/453.923768b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b6df649.css",
-    "static/js/main.8df5f0c7.js"
+    "static/js/main.141071de.js"
   ]
 }
