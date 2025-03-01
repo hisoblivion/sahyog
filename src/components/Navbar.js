@@ -1,41 +1,46 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
     <nav style={styles.navbar}>
-      <h2>SAHYOG - Together for Change</h2>
-      <ul style={styles.navList}>
-        <li><Link to="/" style={styles.navLink}>Home</Link></li>
-        <li><Link to="/about" style={styles.navLink}>About</Link></li>
-        <li><Link to="/campaign" style={styles.navLink}>Campaign</Link></li>
-        <li><Link to="/volunteer" style={styles.navLink}>Volunteer</Link></li>
-        <li><Link to="/contact" style={styles.navLink}>Contact</Link></li>
-      </ul>
+      <h2 style={styles.logo}>SAHYOG - Together for Change</h2>
+      <div style={styles.navLinks}>
+        <Link to="/" style={styles.link}>Home</Link>
+        <Link to="/about" style={styles.link}>About</Link>
+        <Link to="/campaign" style={styles.link}>Campaign</Link>
+        <Link to="/volunteer" style={styles.link}>Volunteer</Link>
+        <Link to="/contact" style={styles.link}>Contact</Link>
+      </div>
     </nav>
   );
 };
 
 const styles = {
   navbar: {
-    backgroundColor: '#004080',
-    color: '#fff',
-    padding: '15px 20px',
-    display: 'flex',
-    justifyContent: 'space-between',
-    alignItems: 'center',
+    backgroundColor: "#004080",
+    padding: "15px",
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    color: "white",
   },
-  navList: {
-    listStyle: 'none',
-    display: 'flex',
-    margin: 0,
-    padding: 0,
+  logo: {
+    margin: "0",
+    fontSize: "20px",
+    fontWeight: "bold",
   },
-  navLink: {
-    color: '#fff',
-    textDecoration: 'none',
-    marginLeft: '15px',
-    fontSize: '16px',
+  navLinks: {
+    display: "flex",
+    gap: "15px",
+  },
+  link: {
+    color: "white",
+    textDecoration: "none",
+    fontSize: "16px",
+    fontWeight: "500",
+    padding: "10px",
+    transition: "0.3s",
   },
 };
 

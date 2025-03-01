@@ -1,12 +1,12 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './pages/Home';
 import About from './pages/About';
 import Campaign from './pages/Campaign';
 import Volunteer from './pages/Volunteer';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 
 const App = () => {
   return (
