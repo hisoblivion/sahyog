@@ -39,10 +39,10 @@ const Volunteer = () => {
       {/* Volunteer Action Section */}
       <h3>📸 Our Volunteers in Action</h3>
       <div style={styles.gallery}>
-        <img src="/pics/IMG-20250302-WA0011.jpg" alt="Speaking to Voters" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0006.jpg" alt="Canvassing in Neighborhoods" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0009.jpg" alt="Public Engagement" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0014.jpg" alt="Informing Voters" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0011.jpg" alt="Speaking to Voters" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0006.jpg" alt="Canvassing in Neighborhoods" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0009.jpg" alt="Public Engagement" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0014.jpg" alt="Informing Voters" style={styles.image} />
       </div>
     </section>
   );

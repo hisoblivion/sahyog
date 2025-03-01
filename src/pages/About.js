@@ -26,7 +26,7 @@ const About = () => {
         <div style={styles.listItem}><span style={styles.icon}>📍</span> <span style={styles.text}>Track local issues at the panchayat, block, and constituency levels.</span></div>
         <div style={styles.listItem}><span style={styles.icon}>🎙</span> <span style={styles.text}>Craft messaging that aligns with voter expectations and concerns.</span></div>
       </div>
-      <img src="/pics/IMG-20250302-WA0006.jpg" alt="Voter Sentiment Analysis" style={styles.image} />
+      <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0006.jpg" alt="Voter Sentiment Analysis" style={styles.image} />
 
       <h4>🌐 Technology-Driven Political Strategy</h4>
       <div style={styles.listContainer}>
@@ -34,7 +34,7 @@ const About = () => {
         <div style={styles.listItem}><span style={styles.icon}>📊</span> <span style={styles.text}>Leverage big data analysis to identify swing voters.</span></div>
         <div style={styles.listItem}><span style={styles.icon}>📢</span> <span style={styles.text}>Implement WhatsApp and social media mobilization for wider reach.</span></div>
       </div>
-      <img src="/pics/IMG-20250302-WA0010.jpg" alt="Digital Political Strategy" style={styles.image} />
+      <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0010.jpg" alt="Digital Political Strategy" style={styles.image} />
 
       <h4>🗳 Governance Consultation</h4>
       <div style={styles.listContainer}>
@@ -42,7 +42,7 @@ const About = () => {
         <div style={styles.listItem}><span style={styles.icon}>📈</span> <span style={styles.text}>Assist in the effective implementation of government welfare schemes.</span></div>
         <div style={styles.listItem}><span style={styles.icon}>🤝</span> <span style={styles.text}>Run citizen engagement programs to improve policy awareness.</span></div>
       </div>
-      <img src="/pics/IMG-20250302-WA0015.jpg" alt="Governance Consultation" style={styles.image} />
+      <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0015.jpg" alt="Governance Consultation" style={styles.image} />
 
       <h3>📅 Our Impact</h3>
       <div style={styles.listContainer}>

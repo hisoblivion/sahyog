@@ -8,14 +8,14 @@ const Home = () => {
 
       {/* Image Grid */}
       <div style={styles.grid}>
-        <img src="/pics/IMG-20250302-WA0015.jpg" alt="Large Campaign Gathering" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0010.jpg" alt="Volunteer Team" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0005.jpg" alt="Public Engagement" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0011.jpg" alt="Speaking to Voters" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0006.jpg" alt="Canvassing in Neighborhoods" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0009.jpg" alt="Public Engagement" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0014.jpg" alt="Informing Voters" style={styles.image} />
-        <img src="/pics/IMG-20250302-WA0008.jpg" alt="One-on-One Voter Interaction" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0015.jpg" alt="Large Campaign Gathering" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0010.jpg" alt="Volunteer Team" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0005.jpg" alt="Public Engagement" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0011.jpg" alt="Speaking to Voters" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0006.jpg" alt="Canvassing in Neighborhoods" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0009.jpg" alt="Public Engagement" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0014.jpg" alt="Informing Voters" style={styles.image} />
+        <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0008.jpg" alt="One-on-One Voter Interaction" style={styles.image} />
       </div>
     </section>
   );

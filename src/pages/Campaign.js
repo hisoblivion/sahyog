@@ -18,7 +18,7 @@ const Campaign = () => {
         <li>✔ Data-Driven Booth Planning</li>
         <li>✔ Door-to-Door Outreach</li>
       </ul>
-      <img src="/pics/IMG-20250302-WA0012.jpg" alt="Speaking at Rally" style={styles.image} />
+      <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0012.jpg" alt="Speaking at Rally" style={styles.image} />
 
       {/* Ground Intelligence Section */}
       <h3>📍 Ground Intelligence</h3>
@@ -31,7 +31,7 @@ const Campaign = () => {
         <li>✔ Community Engagement with Influencers</li>
         <li>✔ Addressing Local Issues with Targeted Messaging</li>
       </ul>
-      <img src="/pics/IMG-20250302-WA0013.jpg" alt="Canvassing with Voters" style={styles.image} />
+      <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0013.jpg" alt="Canvassing with Voters" style={styles.image} />
 
       {/* Social Media Management Section */}
       <h3>📍 Social Media Management</h3>
@@ -43,7 +43,7 @@ const Campaign = () => {
         <li>✔ Targeted Social Media Content</li>
         <li>✔ Real-Time Monitoring of Trends</li>
       </ul>
-      <img src="/pics/IMG-20250302-WA0007.jpg" alt="Group Meeting" style={styles.image} />
+      <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0007.jpg" alt="Group Meeting" style={styles.image} />
 
       {/* Implementation Plan */}
       <h3>🚀 Implementation Plan</h3>
@@ -53,7 +53,7 @@ const Campaign = () => {
         <li>🎯 Phase 2 (2 Months Before Election) – Activate volunteers & voter outreach.</li>
         <li>🎯 Phase 3 (1 Month Before Election) – Intensive door-to-door campaigns.</li>
       </ul>
-      <img src="/pics/IMG-20250302-WA0014.jpg" alt="Handing out Voter Material" style={styles.image} />
+      <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0014.jpg" alt="Handing out Voter Material" style={styles.image} />
 
       {/* Expected Impact Section */}
       <h3>📊 Expected Impact</h3>
@@ -63,7 +63,7 @@ const Campaign = () => {
         <li>✔ Data-driven decision-making</li>
         <li>✔ Positive social media narrative to counter opposition</li>
       </ul>
-      <img src="/pics/IMG-20250302-WA0008.jpg" alt="One-on-One Voter Interaction" style={styles.image} />
+      <img src="https://hisoblivion.github.io/sahyog/pics/IMG-20250302-WA0008.jpg" alt="One-on-One Voter Interaction" style={styles.image} />
     </section>
   );
 };
