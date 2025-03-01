@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sahyog/static/css/main.7b6df649.css",
-    "main.js": "/sahyog/static/js/main.8534e1b1.js",
+    "main.js": "/sahyog/static/js/main.b8a58e68.js",
     "static/js/453.923768b0.chunk.js": "/sahyog/static/js/453.923768b0.chunk.js",
     "index.html": "/sahyog/index.html",
     "main.7b6df649.css.map": "/sahyog/static/css/main.7b6df649.css.map",
-    "main.8534e1b1.js.map": "/sahyog/static/js/main.8534e1b1.js.map",
+    "main.b8a58e68.js.map": "/sahyog/static/js/main.b8a58e68.js.map",
     "453.923768b0.chunk.js.map": "/sahyog/static/js/453.923768b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b6df649.css",
-    "static/js/main.8534e1b1.js"
+    "static/js/main.b8a58e68.js"
   ]
 }
