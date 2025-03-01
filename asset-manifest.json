@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hisoblivion/sahyog.git/static/css/main.7b6df649.css",
-    "main.js": "/hisoblivion/sahyog.git/static/js/main.e220dc2c.js",
-    "static/js/453.923768b0.chunk.js": "/hisoblivion/sahyog.git/static/js/453.923768b0.chunk.js",
-    "index.html": "/hisoblivion/sahyog.git/index.html",
-    "main.7b6df649.css.map": "/hisoblivion/sahyog.git/static/css/main.7b6df649.css.map",
-    "main.e220dc2c.js.map": "/hisoblivion/sahyog.git/static/js/main.e220dc2c.js.map",
-    "453.923768b0.chunk.js.map": "/hisoblivion/sahyog.git/static/js/453.923768b0.chunk.js.map"
+    "main.css": "/static/css/main.7b6df649.css",
+    "main.js": "/static/js/main.0c139c62.js",
+    "static/js/453.923768b0.chunk.js": "/static/js/453.923768b0.chunk.js",
+    "index.html": "/index.html",
+    "main.7b6df649.css.map": "/static/css/main.7b6df649.css.map",
+    "main.0c139c62.js.map": "/static/js/main.0c139c62.js.map",
+    "453.923768b0.chunk.js.map": "/static/js/453.923768b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b6df649.css",
-    "static/js/main.e220dc2c.js"
+    "static/js/main.0c139c62.js"
   ]
 }
