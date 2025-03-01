@@ -16,7 +16,7 @@
   },
 
 
-  "homepage": "https://hisoblivion.github.io/sahyog.git",
+  "homepage": "https://hisoblivion.github.io/sahyog",
   "scripts": {
   
     "predeploy": "npm run build",
