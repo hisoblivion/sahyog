@@ -39,7 +39,7 @@
 
 html, body {
   height: 100%;
-  overflow-x: hidden; /* Prevent horizontal scroll */
+  overflow-x: auto; /* Prevent horizontal scroll */
   overflow-y: auto;   /* Allow vertical scrolling */
   margin: 0;
   padding: 0;
