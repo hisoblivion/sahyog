@@ -16,8 +16,9 @@
   },
 
 
+  "homepage": "https://hisoblivion.github.io/sahyog.git",
   "scripts": {
-    "homepage": "https://github.com/hisoblivion/sahyog.git",
+  
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
